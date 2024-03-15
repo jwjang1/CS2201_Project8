@@ -1,0 +1,1 @@
+/usr/bin/clang++   -std=c++17 -Wall -Werror -Wextra -pedantic -pedantic-errors -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/project8.dir/WordCount.cpp.o  -o ../project8 

@@ -1,0 +1,3 @@
+/Users/kis/Documents/CS2201/project8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kis/Documents/CS2201/project8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kis/Documents/CS2201/project8/cmake-build-debug/CMakeFiles/project8.dir

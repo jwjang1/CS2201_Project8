@@ -1,0 +1,5 @@
+
+Counted words in document 1 = 17675
+Counted words in document 2 = 4751
+
+Vector Distance: 0
